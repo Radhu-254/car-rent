@@ -46,7 +46,7 @@ const HouseContextProvider = ({ children }) => {
     setLoading(true);
     // check the string if includes '(any)'
     const isDefault = (str) => {
-      return str.split(' ').includes('(any)');
+      return str.split(' ').includes('(All)');
     };
 
     // get first string (price) and parse it to number

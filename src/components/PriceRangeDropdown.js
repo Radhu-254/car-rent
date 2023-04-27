@@ -17,7 +17,7 @@ const PriceRangeDropdown = () => {
 
   const prices = [
     {
-      value: 'Price range (any)',
+      value: 'Price range (All)',
     },
     {
       value: '70 - 100',
