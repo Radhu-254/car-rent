@@ -146,7 +146,7 @@ const PropertyDetails = () => {
                 className=' capitalize bg-cyan-600  hover:bg-cyan-700 text-white rounded p-4 text-sm w-full transition'
                 type='submit'
               >
-                Start a Reservation
+                Request a Callback
               </button>
           </form>
         </div>
